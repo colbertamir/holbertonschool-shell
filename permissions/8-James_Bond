@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+07
+chmod ug+0+o+7

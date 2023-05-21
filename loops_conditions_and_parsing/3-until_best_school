@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Displaying "Best School" 10 times using the while using 'until'
 x=1
-until [ $x == 10 ]
+until [ $x -le 10 ]
 do
  	echo "Best School"
 	x=$(( x + 1 ))

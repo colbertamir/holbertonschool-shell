@@ -2,5 +2,5 @@
 # Displaying "Best School" in script 10 times
 for n in "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School"
 do
-	echo $n
+	echo "$n"
 done

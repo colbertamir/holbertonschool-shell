@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Displaying "Best School" 10 times
-for n in {1..10};
+# Displaying "Best School" in script 10 times
+for n in "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School"
 do
-	echo -n "Best School"
+	echo $n
 done

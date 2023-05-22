@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # Displaying "Best School" and "Best School \nHi"
 x=0
-while [ $x -le 10 ]
+while [ $x -le 9 ]
 do
 	echo "Best School"
 	x=$(( x + 1 ))
-if [ $x -eq 9 ]
+if [ $x = 9 ]
 	then 
 		echo "Hi"	
 fi

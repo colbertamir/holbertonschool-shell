@@ -6,7 +6,7 @@ do
 	echo "Best School"
 	x=$(( x + 1 ))
 if [ $x -eq 9 ]
-then 
-	echo "Best School" ; echo "Hi"	
+	then 
+		echo "Hi"	
 fi
 done

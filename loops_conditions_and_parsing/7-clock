@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Clock
-head -n 70 7-clock 
+# head -n 70 7-clock 
 h=0
 m=1
 while [ $h -le 12 ]

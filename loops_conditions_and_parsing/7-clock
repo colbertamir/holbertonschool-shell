@@ -10,7 +10,7 @@ while [ $m -lt 60 ];
 do
 	echo $m
 	m=$(( m + 1 ))
-done
+done	
 	m=$(( m = 1 ))
 	h=$(( h + 1 ))
 done

@@ -11,7 +11,7 @@ if [ -e $FILE1 ];then
     fi
 
     if [ -f $FILE1 ]; then
-	echo "$FILE1 file is a regular file"
+	echo "$FILE1 is a regular file"
     fi
 
 else
